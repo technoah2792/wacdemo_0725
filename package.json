@@ -1,0 +1,16 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "Demo Whatsapp webhook on Render",
+  "main": "app.js",
+  "repository": "https://github.com/technoah2792/wacdemo_0725.git",
+  "author": "Nitin Nigam",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
